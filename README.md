@@ -6,8 +6,10 @@ This repository will hold the write up for my Final Year Project for my Bsc (Hon
 ## Repositories
 This project is split across two repositories:
 
-- **[Application Repository](https://github.com/eb2033/GitSentry-Application)**
+- **[Hardened Application Repository](https://github.com/eb2033/GitSentry-Hardened-Application)**
   - Application source code, Dockerfile, and tests.
+
+- **[Baseline Application Repository](https://github.com/eb2033/GitSentry-Baseline-Application)**
 
 - **[Infrastructure & GitOps Repository](https://github.com/eb2033/GitSentry-IaC)**
   - Terraform infrastructure, Kubernetes manifests, and GitOps configuration.
